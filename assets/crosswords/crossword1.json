@@ -1,0 +1,63 @@
+[
+    {
+        "word": "gonarthrose",
+        "clue": "Arthropathie dégénérative du genou secondaire à une usure et une destruction du cartilage articulaire du genou, suivie d'une atteinte des différentes structures de l'articulation.",
+        "posx": 1,
+        "posy": 1,
+        "type": "across"
+    },{
+        "word": "gonalgie",
+        "clue": "Douleur localisée au niveau du genou.",
+        "posx": 2,
+        "posy": 0,
+        "type": "down"
+    },{
+        "word": "obesite",
+        "clue": "Maladie non transmissible qui se caractérise par un excès de graisse corporelle résultant d'un apport énergétique issu de l'alimentation largement supérieur aux besoins de l'individu concerné.",
+        "posx": 0,
+        "posy": 3,
+        "type": "down"
+    },{
+        "word": "rabot",
+        "clue": "Signe de l'examen clinique genou. C'est un frottement douloureux de la rotule sur la trochlée, recherché sur un malade en décubitus dorsal, genou relâché.",
+        "posx": 8,
+        "posy": 1,
+        "type": "down"
+    },{
+        "word": "osteophyte",
+        "clue": "Excroissance osseuse qui se manifeste au niveau des articulations.",
+        "posx": 8,
+        "posy": 4,
+        "type": "across"
+    },{
+        "word": "geode",
+        "clue": "Cavité anormale d'hyper pression creusée dans un os.",
+        "posx": 11,
+        "posy": 3,
+        "type": "down"
+    },{
+        "word": "amyotrophie",
+        "clue": "Diminution du volume des muscles de la loge antérieure de cuisse.",
+        "posx": 16,
+        "posy": 0,
+        "type": "down"
+    },{
+        "word": "zohlen",
+        "clue": "Nom d'une manœuvre ou le médecin s'oppose à l'ascension de la rotule lors de la contraction du quadriceps.",
+        "posx": 15,
+        "posy": 6,
+        "type": "across"
+    },{
+        "word": "smilie",
+        "clue": "Nom d'un test qui permet de mettre en évidence une instabilité rotulienne dans le plan frontal.  Il se fait sur un patient allongé en décubitus dorsal avec le genou en extension, la patella est poussée en dehors. Le test est positif quand le patient a l'impression d'une luxation à venir ; il repousse alors la main de l'examinateur.",
+        "posx": 0,
+        "posy": 6,
+        "type": "across"
+    },{
+        "word": "lequesne",
+        "clue": "Nom d'un indice qui apprécie la douleur ressentie la nuit et lors de la marche, du piétinement, de la station assise prolongée, ainsi que la gêne éprouvée lors du dérouillage matinal, le périmètre de marche et les difficultés rencontrées dans la vie quotidienne.",
+        "posx": 5,
+        "posy": 5,
+        "type": "down"
+    }
+]

@@ -1,0 +1,63 @@
+[
+    {
+        "word": "log",
+        "clue": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt nunc quam, ut finibus turpis efficitur tincidunt. Ut iaculis turpis at massa euismod volutpat.",
+        "posx": 8,
+        "posy": 0,
+        "type": "down"
+    },{
+        "word": "proportion",
+        "clue": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt nunc quam, ut finibus turpis efficitur tincidunt. Ut iaculis turpis at massa euismod volutpat.",
+        "posx": 4,
+        "posy": 1,
+        "type": "across"
+    },{
+        "word": "project",
+        "clue": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt nunc quam, ut finibus turpis efficitur tincidunt. Ut iaculis turpis at massa euismod volutpat.",
+        "posx": 0,
+        "posy": 7,
+        "type": "across"
+    },{
+        "word": "dominant",
+        "clue": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt nunc quam, ut finibus turpis efficitur tincidunt. Ut iaculis turpis at massa euismod volutpat.",
+        "posx": 6,
+        "posy": 0,
+        "type": "down"
+    },{
+        "word": "invite",
+        "clue": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt nunc quam, ut finibus turpis efficitur tincidunt. Ut iaculis turpis at massa euismod volutpat.",
+        "posx": 13,
+        "posy": 4,
+        "type": "down"
+    },{
+        "word": "kill",
+        "clue": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt nunc quam, ut finibus turpis efficitur tincidunt. Ut iaculis turpis at massa euismod volutpat.",
+        "posx": 15,
+        "posy": 9,
+        "type": "down"
+    },{
+        "word": "bomb",
+        "clue": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt nunc quam, ut finibus turpis efficitur tincidunt. Ut iaculis turpis at massa euismod volutpat.",
+        "posx": 12,
+        "posy": 0,
+        "type": "down"
+    },{
+        "word": "weak",
+        "clue": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt nunc quam, ut finibus turpis efficitur tincidunt. Ut iaculis turpis at massa euismod volutpat.",
+        "posx": 12,
+        "posy": 9,
+        "type": "across"
+    },{
+        "word": "ambition",
+        "clue": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt nunc quam, ut finibus turpis efficitur tincidunt. Ut iaculis turpis at massa euismod volutpat.",
+        "posx": 6,
+        "posy": 5,
+        "type": "across"
+    },{
+        "word": "index",
+        "clue": " Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc tincidunt nunc quam, ut finibus turpis efficitur tincidunt. Ut iaculis turpis at massa euismod volutpat.",
+        "posx": 4,
+        "posy": 4,
+        "type": "down"
+    }
+]
